@@ -34,12 +34,12 @@ coffee-sales/
    ```
 3. Compile the program using a C++ compiler (e.g., g++):
    ```bash
-   g++ main.cpp -o coffee-sales
+   g++ main.cpp -o Coffee-Sales
    ```
 
 4. Run the executable:
    ```bash
-   ./coffee-sales
+   ./Coffee-Sales
    ```
 
 ## Usage
