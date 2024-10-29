@@ -26,7 +26,7 @@ coffee-sales/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mrochelle23/coffee-sales.git
+   git clone https://github.com/mrochelle23/Coffee-Sales.git
    ```
 2. Navigate to the project directory:
    ```bash
